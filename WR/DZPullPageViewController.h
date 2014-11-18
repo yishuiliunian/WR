@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DZPullPageViewController.h
 //  WR
 //
 //  Created by stonedong on 14/11/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DZPullPageViewController : UIViewController
 
 @end
-
